@@ -1,0 +1,41 @@
+#tab1 .item img {
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+}
+
+.content-section {
+    background-color: #273036 !important;
+}
+
+.section-heading p {
+    color: #b1b1b1 !important;
+}
+
+.section-heading h1 {
+    color: white !important;
+}
+
+#featured .item .text-content {
+    background-color: #00000000 !important;
+}
+
+#featured .item .text-content h4 {
+    color: white !important;
+}
+
+#featured .item .text-content span {
+    color: #dbdbdb !important;
+}
+
+p {
+  color: #ababab;
+}
+
+#blog .tabs, .tabgroup {
+    background-color: #e5e5e5 !important;
+}
+
+.sidebar-navigation {
+    background-color: #515255af !important;
+}
